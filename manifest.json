@@ -1,0 +1,20 @@
+{
+  "id": "calculatorpro",
+  "title": "Calculator Pro",
+  "version": "1.3",
+  "entry": "calculatorpro.html",
+  "bundle_file": "calculatorpro.bundle.zip.enc",
+  "sha256": "cbce3080fc453fac382491217bfcd3313b5f5fcd6caf669e7e6905e4e5163ed0",
+  "size_bytes": 31117,
+  "file_count": 13,
+  "built_at": "2026-08-13T06:46:28Z",
+  "signature": "MEQCIBPsWOqetqy0CXFTY2U3ddncDetmKiYlItba+P3BZwUrAiA372xanc7cl78ZXRgr151hPdV29/ewNkDTQgQpRvrMEw==",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "gcwAT4tDWVGZEMuy",
+    "tag_b64": "qV2BQhOkNMtAtK0eXzZzlg==",
+    "aad": "calculatorpro:1.3"
+  },
+  "plaintext_sha256": "7d9b096cf5e27fc69d62e47070d451c23e6bd705f0b7935bf04cc1d1532ea856",
+  "signature_algorithm": "SHA256withECDSA"
+}
