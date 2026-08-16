@@ -1,0 +1,19 @@
+{
+  "id": "notecalc",
+  "title": "NoteCalc",
+  "version": "1.0.0",
+  "entry": "notecalc.html",
+  "bundle_file": "notecalc.bundle.zip.enc",
+  "sha256": "0a2eef7bb6a1550200a8333cac906327021cfef38bda1d9d0625023ff877d6ac",
+  "size_bytes": 18310,
+  "file_count": 3,
+  "plaintext_sha256": "22f3640a4175fb811e888620ab41f08f890aa2e8d7900c17dd50ff769724e64b",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "GwJIDC1hjXCHVnHl",
+    "tag_b64": "7RzYoQC5MiMOnkWF8Exrjg==",
+    "aad": "notecalc:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEQCIGFnprB9/HNA+ZHW2046nnKey1Um9V9TZXnBZn3E8PKbAiA5vp+RvgaRzrfYBpLxBOKkky1RSGtFUyux9ATcqTwszw=="
+}

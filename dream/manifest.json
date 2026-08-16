@@ -1,0 +1,19 @@
+{
+  "id": "dream",
+  "title": "Dream",
+  "version": "1.0.0",
+  "entry": "dream.html",
+  "bundle_file": "dream.bundle.zip.enc",
+  "sha256": "f51007bc237fe1db2a20f20729575bf04a0a416a181fb2b1c9a0ab66604fc9f0",
+  "size_bytes": 17742,
+  "file_count": 4,
+  "plaintext_sha256": "9f61bb36cb909aa88f7d510480060126c3b9d04b9ee010cd168d5ed44b2807b7",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "0kmLQogwwv4dg2NL",
+    "tag_b64": "K6Dp1f1oR3arIVkjy3tCww==",
+    "aad": "dream:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCICEV+Cy3UjlF2yNdBT9rVJ3FRMBbbHmVd1K/fgEswqMdAiEAyomyR1fJqDBbmYhMo4o+MZhuiIjTmD2OKu5wxFOetj8="
+}

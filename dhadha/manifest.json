@@ -1,0 +1,19 @@
+{
+  "id": "dhadha",
+  "title": "Dhadha",
+  "version": "1.0.0",
+  "entry": "dhadha.html",
+  "bundle_file": "dhadha.bundle.zip.enc",
+  "sha256": "de4594e8876e89bdadba0e6909c124dd35bfb6711a860a8e603f5bc2f79a1ad9",
+  "size_bytes": 85525,
+  "file_count": 4,
+  "plaintext_sha256": "6af8d486cdfe7ffc6586955bf81403b925ebd10664738bdd7f6f82d4dd384a51",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "DmZKGGM/b9kA/KDj",
+    "tag_b64": "4DOJarIVzok7VkWMi8cUmg==",
+    "aad": "dhadha:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEYCIQDkRNyWgJQqwIcjED/aOvAGlyffLVCq2vpsWmlBz0z0hwIhAKP1pkn8yi3AhWRtFc8rVGg1cw2A1Kk5D+6vLg8iT5nC"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "surah",
+  "title": "Surah",
+  "version": "1.0.0",
+  "entry": "surah.html",
+  "bundle_file": "surah.bundle.zip.enc",
+  "sha256": "c53449083a3e7208a53cfe484cad0d64e8058962599e889f001b760f01c2f190",
+  "size_bytes": 43487,
+  "file_count": 4,
+  "plaintext_sha256": "c8912bc17123e5fbd540aa2005b0df7393831898ad1c8f92c157840253834b21",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "anYxJLDG+m76lxNn",
+    "tag_b64": "qGCTeQPQmcpZleWo3jWP+Q==",
+    "aad": "surah:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIBc70GoeV+FFCwL7dYdM8rSPiH/L3tUsnNXMEXUgV8NAAiEAoUt+WvpVWZuNZXhlHHMc412QFIUm3YN6oTziGHOi+hk="
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dua",
+  "title": "Dua",
+  "version": "1.0.0",
+  "entry": "dua.html",
+  "bundle_file": "dua.bundle.zip.enc",
+  "sha256": "9427db06c96149c9d48cd203040fb3eb0976d499f27bf14d1e7f3652384dd1d2",
+  "size_bytes": 64993,
+  "file_count": 4,
+  "plaintext_sha256": "9c8e9d306ae21f86e423eef9d01d5adbaca24e02ce82f93ac09a97f0da8af7f0",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "bMFWNBQ831z5jIBa",
+    "tag_b64": "Jj6KM2+2/oFtaYEVJ4CHDA==",
+    "aad": "dua:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEQCIGPaKzKRPpiocex/VSQ2rt2jK6JDhSvYXKGzqUF010IpAiAaqe0olPdCPj6Ftsl6ec4a2nO+/njWjW+9OIMTVkP4YQ=="
+}

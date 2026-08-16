@@ -1,0 +1,19 @@
+{
+  "id": "tuition",
+  "title": "Tuition",
+  "version": "1.0.0",
+  "entry": "tuition.html",
+  "bundle_file": "tuition.bundle.zip.enc",
+  "sha256": "5fc3e8f683ff0124891532b36f6ecbefce3901c6aab7411ae41838995f51adf8",
+  "size_bytes": 2795,
+  "file_count": 1,
+  "plaintext_sha256": "9a67c6ae24c311c44fd94d9e4d8e4854e322a614c5c823a78ea07984d6c1f9dc",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "iGr0NsB+4RJS+bj7",
+    "tag_b64": "A00fEYf4kFUfiAzdcOgMHg==",
+    "aad": "tuition:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIQCXXt/mzO7IWQTowuAQ1E8LDBtXIgNMHhka2AeFhM2TOgIgdhCShVYwl1hBn/J57muj3aYChWcyHogl1s+lwWHTC+8="
+}

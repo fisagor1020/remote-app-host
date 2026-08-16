@@ -1,0 +1,19 @@
+{
+  "id": "compass",
+  "title": "Compass",
+  "version": "1.0.0",
+  "entry": "compass.html",
+  "bundle_file": "compass.bundle.zip.enc",
+  "sha256": "cc232f61d0e69c923ff64f04b2f253371862bc5e789b91ebd4ab0138608dedfd",
+  "size_bytes": 18382,
+  "file_count": 3,
+  "plaintext_sha256": "de018963df44d22b44d40ea0ab64f410c92bc5120b09bcd5b8a32c86515ee3af",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "4Knlqdm9OR+jwT3/",
+    "tag_b64": "yaE3DV4F2LtoMEK0Ofe0tw==",
+    "aad": "compass:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEQCIC8A1JgE/nBBAn0v+9F3vvtlhbDUsuSM/e3DnWS3fQEKAiB2jrWvzliOzUYa0DvB2sKpKzeYEtjfyrAgCz1WOoO7NA=="
+}

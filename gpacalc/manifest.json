@@ -1,0 +1,19 @@
+{
+  "id": "gpacalc",
+  "title": "GPA Calculator",
+  "version": "1.0.0",
+  "entry": "gpa calc.html",
+  "bundle_file": "gpacalc.bundle.zip.enc",
+  "sha256": "0e18832ac14b8772899117a0076a2ae67c1af2ae31e3b7c8e52f378c780771b8",
+  "size_bytes": 4026,
+  "file_count": 1,
+  "plaintext_sha256": "1b7ab417deb7c55b955df28d2a2be10ac70698e0a599271b4a1590fa2f703168",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "z1ZDj53BL5/fOKEF",
+    "tag_b64": "ostUW74NyK7csaBQBsjENA==",
+    "aad": "gpacalc:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEQCIDWoY6VhelXX4Q3VgTtAuiVn3VfyAY8Fotg2Wf3YO07tAiAmCoAnFafQcDDZb1IOCW0bkk0nL/rV/u9jTrLq63sivQ=="
+}
