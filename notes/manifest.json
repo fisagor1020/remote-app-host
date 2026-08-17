@@ -1,0 +1,19 @@
+{
+  "id": "notes",
+  "title": "Notes",
+  "version": "1.0.0",
+  "entry": "notes.html",
+  "bundle_file": "notes.bundle.zip.enc",
+  "sha256": "7b00a5d3393a590d7dd5a5dfe976517f029f10db471442b5231442596794002e",
+  "size_bytes": 10594,
+  "file_count": 1,
+  "plaintext_sha256": "706ad66c689008c29eb733a468ea1aa41ecf7fceb30fc2596ef0b6097953c433",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "gQqV092lc72nBUmk",
+    "tag_b64": "yh9wb0h8XBN8NhtDeHiNrQ==",
+    "aad": "notes:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEYCIQC6ll0M03Pb7OioSGl5uSDLzVF05KAkfOFlYL9btabLxgIhALWGMrifJ7m0BezTFbbYWWs9iW4ULC2GWagprFOg87M6"
+}
