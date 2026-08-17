@@ -1,0 +1,19 @@
+{
+  "id": "scanner",
+  "title": "Scanner",
+  "version": "1.0.0",
+  "entry": "scanner.html",
+  "bundle_file": "scanner.bundle.zip.enc",
+  "sha256": "766d2a684d5f948331552ffa66d9ed7e2c172474fc7c847a118a57ccadcabd40",
+  "size_bytes": 3739,
+  "file_count": 1,
+  "plaintext_sha256": "cdf5fb9942d81eda3fd0562a0d85f48041c678d66c1d67c5662fbd92d9f04e8e",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "kLNNDQd/K60/Bcwi",
+    "tag_b64": "FxnvkYhk8IQsjijSVM2naQ==",
+    "aad": "scanner:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEQCICNM66bnb/LvvfZhfjxycpNNSsypXSU4RkG01JHxayixAiAYgSFXdBD1yCFoNpjYWPE8vh6Z/CUhwXakvRRHUVOngA=="
+}
