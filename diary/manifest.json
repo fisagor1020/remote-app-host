@@ -1,0 +1,19 @@
+{
+  "id": "diary",
+  "title": "Diary",
+  "version": "1.0.0",
+  "entry": "diary.html",
+  "bundle_file": "diary.bundle.zip.enc",
+  "sha256": "5be6fa5b40180b64537241618e11090aa9807c2308b4c2960355eac5861920cd",
+  "size_bytes": 183242,
+  "file_count": 6,
+  "plaintext_sha256": "97c66e2bbd9a343ff410eefabb88bd2d8b4e67fdac0af089944265684a17f636",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "eF/EZQeLgUjIANxP",
+    "tag_b64": "t/oPgN56ENywvdQG64DF6A==",
+    "aad": "diary:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIQCEFvASmOAM/Ub64lBOzbLy9ipCEJe4xdBEwp8+ASw+aQIgFRu2yPXDB1FjtN5EYAKE449Zq+3ng2APWDozXPpr5SI="
+}
