@@ -1,0 +1,19 @@
+{
+  "id": "sheetpro",
+  "title": "SheetPro",
+  "version": "1.0.0",
+  "entry": "index.html",
+  "bundle_file": "sheetpro.bundle.zip.enc",
+  "sha256": "38adab4f9479256ad6cadd72f73e637fa5936a1316425f2a1242977e2d0e4db9",
+  "size_bytes": 19538,
+  "file_count": 3,
+  "plaintext_sha256": "2d8f5b53fbb479330908ee3ded323fa18dceb0c5fa9ac52dfe5c2d972f47d426",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "bBbY19wLQvHDlXnX",
+    "tag_b64": "05eCNvFjCXhBpL09U2d7mw==",
+    "aad": "sheetpro:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIHg5/4ylf2ioLY3Sf0X8wvbH6KUYl/nP2OEh+WGdMRuRAiEA5kzbGmh1gWru+nHJ0L86BNMA6gObJhiNpITr8LiDCnE="
+}
