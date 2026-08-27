@@ -1,0 +1,19 @@
+{
+  "id": "calendar",
+  "title": "calendar Utilities",
+  "version": "1.0.0",
+  "entry": "calendar.js",
+  "bundle_file": "calendar.bundle.zip.enc",
+  "sha256": "0a2a8a18f91e137f8915bcee71d0e0e7f31b3bf7be3c6e5b9318cbcce46b27fb",
+  "size_bytes": 3338,
+  "file_count": 1,
+  "plaintext_sha256": "216c60f6293be69304b3fe1891d0c770be958772133fc0911a4e8d49f58f3d20",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "f9zfUTQVua83/a/8",
+    "tag_b64": "u+UezM7HMJki9GToLYcpzw==",
+    "aad": "calendar:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEQCIEfdom0K5SXMS86YOVNaSj3+zdUt8JMwxJBUoNlee5iOAiBsfQDAYVoq5b8qeBGDe+pxxoudl71YUX4Ex/sArf5ejg=="
+}
