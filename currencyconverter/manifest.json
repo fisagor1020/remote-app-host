@@ -1,0 +1,19 @@
+{
+  "id": "currencyconverter",
+  "title": "Currency Conversion Package",
+  "version": "1.1.0",
+  "entry": "currencyconvert.js",
+  "bundle_file": "currencyconverter.bundle.zip.enc",
+  "sha256": "7cea6ea0fd91b91fcbb16fd9463403e455ee16c661700349978772600c63bd11",
+  "size_bytes": 2214,
+  "file_count": 1,
+  "plaintext_sha256": "1ea264317a6f71d74fda95136522030154a53810ef005a33fb7df82586807c5d",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "DNbo32xwuvjci8tQ",
+    "tag_b64": "fPZt/oZ3eMGPhm2jF1zgdg==",
+    "aad": "currencyconverter:1.1.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIDIyX5gCjI8ii4vMIKBCsgk3xdUfXROdTJzPpxe2Sq53AiEAlFAgCCiqGC7Vn5o+woz9GiYt4TCfNv4EoNWsi93ngkc="
+}
