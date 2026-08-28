@@ -1,0 +1,19 @@
+{
+  "id": "converter",
+  "title": "Converter Utilities",
+  "version": "2.0.0",
+  "entry": "converter.js",
+  "bundle_file": "converter.bundle.zip.enc",
+  "sha256": "c253d4e486f820bf8c52b144c3971a830f01ea234aa92dc996d283782c8a2869",
+  "size_bytes": 4118,
+  "file_count": 1,
+  "plaintext_sha256": "8c4163a3eaa31bb8c039eb99b4e78190fb78d20589f4222f0b22ff03e41de99b",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "EybzG8UnQVeghgJk",
+    "tag_b64": "HiycKj3hwvEprDWWxAFXLw==",
+    "aad": "converter:2.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEYCIQCbU5RrjjLTjRL6mN/X+0LePGEAmoiuUNLmkkebXU4ZRQIhAOEjCI3H39MrUa+lKbv10f331UpfLXXlPWFd/5sAwHHU"
+}
