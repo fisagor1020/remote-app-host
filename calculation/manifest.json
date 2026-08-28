@@ -1,0 +1,19 @@
+{
+  "id": "calculation",
+  "title": "calculation Utilities",
+  "version": "2.0.0",
+  "entry": "calculation.js",
+  "bundle_file": "calculation.bundle.zip.enc",
+  "sha256": "3a39ee8a5e01018f8952f983115c3acfad57d66600dfa2f432130069403c8823",
+  "size_bytes": 12389,
+  "file_count": 1,
+  "plaintext_sha256": "8f434dac8a718893ff23dbd8dcf28eb8ff5a7760e08cbc29aaa1a71c0560567e",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "6uU4yOYP9VCKBdM+",
+    "tag_b64": "vg1dMaLvgwwnFzjQN3cotw==",
+    "aad": "calculation:2.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIQC14EZwjPmCaxbf+w87H16m4zDFJPTQ85yWnZ2r6FSaCgIgX/upK1LzcAtCxyUHKsO4bJmzrHKpXNy62PCcL+p9tlE="
+}
