@@ -1,0 +1,19 @@
+{
+  "id": "translation",
+  "title": "Google Translate Package",
+  "version": "1.0.0",
+  "entry": "translation.js",
+  "bundle_file": "translation.bundle.zip.enc",
+  "sha256": "57dc9e71434e4793d072bdb4dd23f49b47b67dcedc5f29dcd945f92fe464967e",
+  "size_bytes": 922,
+  "file_count": 1,
+  "plaintext_sha256": "a11c3ac9213dad3a588c0d03102bfb1751c9d19930fb7e34f54691fdf9887822",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "sGQvuGNVt5HjQaOw",
+    "tag_b64": "oAwFmvFKBI+VejLSEIrHFA==",
+    "aad": "translation:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEYCIQCvLzIF9RADnTd1ToUjN3W3ToNr4WUwt+QsG1DVSK/tewIhANAqgkFEVf/4kQOd2Tluxlmj+iYSTSwNaWnxdzg54pdL"
+}
