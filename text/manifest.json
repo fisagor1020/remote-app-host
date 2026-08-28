@@ -1,0 +1,19 @@
+{
+  "id": "text",
+  "title": "Text Utilities",
+  "version": "1.0.0",
+  "entry": "text.js",
+  "bundle_file": "text.bundle.zip.enc",
+  "sha256": "14ea4fca6f624295022ed63d4044642575629afd89891d1cec560a33eb11fbc0",
+  "size_bytes": 2700,
+  "file_count": 1,
+  "plaintext_sha256": "70ea096e7dce0c78ee5c8a3a168ef76b55639ac77d2b8b2364b196dd7263f7a4",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "XHftRFhEbLd20lcv",
+    "tag_b64": "yBXqIumI2oYFMIdArRkqZg==",
+    "aad": "text:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIFSsJHxsyJMaXMX2goYQT9hWdac9n3phn8JidxT76mO8AiEA38IGJUqEzs8SUYudCEv6kxeL5r6Kn1D8amsINwo3YIg="
+}

@@ -1,0 +1,19 @@
+{
+  "id": "math",
+  "title": "Math Utilities",
+  "version": "1.0.0",
+  "entry": "math.js",
+  "bundle_file": "math.bundle.zip.enc",
+  "sha256": "2998a6a86a407e827034a82ea9c7eb98d17f25fb8c1039267e3c49dbdb5b385e",
+  "size_bytes": 6703,
+  "file_count": 1,
+  "plaintext_sha256": "ae3b8f1e0812fe72e12977f366ba04133b1ce6e91a4d67558ab03ad77c8f698e",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "g5BmKSXuPAfVv6HI",
+    "tag_b64": "Ys5n49Sz7fTHsrEIKY5YMg==",
+    "aad": "math:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIA79Os7ItdKPsDk6Lyab+Oe8ZEQx9L4tDY/IRnOUs5v6AiEA3Xt4A0sNvB9YIK2rsxqo/SW0oJfwVcBCTjn5wRxkby8="
+}

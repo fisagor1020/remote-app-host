@@ -1,0 +1,19 @@
+{
+  "id": "style",
+  "title": "Stylish Text Generator",
+  "version": "1.0.0",
+  "entry": "style.js",
+  "bundle_file": "style.bundle.zip.enc",
+  "sha256": "f1f4321195b93b1819518f14a02792161b3758b1605119026bc53ef4c58531a5",
+  "size_bytes": 3446,
+  "file_count": 1,
+  "plaintext_sha256": "dea2500fecf4fb42ecff07e988ba0ed31de979748e07864de26ba6c3d7233e7f",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "iUskCCXQeur16S8A",
+    "tag_b64": "04W9uYBQmHdWa8eS4zfTmg==",
+    "aad": "style:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIQCxOwjM5jBayRNZvoJ8p+K/uZjBD5y8VuPjjXoOikhqEwIgS8n7IvI6HE9BfrnuIJcOPp0RrmEyDMZH8cCpobeA1uM="
+}
