@@ -1,0 +1,19 @@
+{
+  "id": "world",
+  "title": "World Information Package",
+  "version": "1.1.0",
+  "entry": "world.js",
+  "bundle_file": "world.bundle.zip.enc",
+  "sha256": "02937441f1672664ee7d89a94fe8dbc69a631d4f98aa06f3bd24eff3822b4847",
+  "size_bytes": 2672,
+  "file_count": 1,
+  "plaintext_sha256": "3093bf98a99cd8642443e987c8d4d84a087c52547eace62919565a5d916be2df",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "W+pAmBlHrS4gUHEC",
+    "tag_b64": "fWwXF5V+4ZJRHk3JjaCrXg==",
+    "aad": "world:1.1.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIH0+nYfif9Ho41gVxdwyMtcTrDnokcYSGMxp76NLJZJ8AiEA2m/iQeIq8Ytpaq1gXzv/kn8nLmecynSGF67aEuljVUM="
+}
