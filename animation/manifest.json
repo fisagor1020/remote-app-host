@@ -1,0 +1,19 @@
+{
+  "id": "animation",
+  "title": "Animation Engine",
+  "version": "1.0.0",
+  "entry": "animation.js",
+  "bundle_file": "animation.bundle.zip.enc",
+  "sha256": "5b96d2f1997aab545fbf7f1df2733ec7d9e5ad30d932d804ad7b08ae832ecae2",
+  "size_bytes": 7303,
+  "file_count": 1,
+  "plaintext_sha256": "04cef76cd580caefb6231d3b23cc60e0361becd2a4cfa9ed7ac7ae8a44c18f5a",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "rVT0R+5rQZAt+jKR",
+    "tag_b64": "n2jwd15o5x4l2CtN85JIcQ==",
+    "aad": "animation:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEQCIHSWqX/RB2EoYDzjo+MXsistfwszsV8SpD15amKrqz0wAiAI+7APdHH/6HNiDrifHRYVTyK7hcvrWI7smnXbgscM3A=="
+}

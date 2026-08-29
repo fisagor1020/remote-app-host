@@ -1,0 +1,19 @@
+{
+  "id": "android",
+  "title": "Android intents and shortcuts",
+  "version": "2.0.0",
+  "entry": "android.js",
+  "bundle_file": "android.bundle.zip.enc",
+  "sha256": "569dd96bc61cd0d4a549af556ca57329626f82cfadeb366eb9dc88d5880e975a",
+  "size_bytes": 2595,
+  "file_count": 1,
+  "plaintext_sha256": "3871ee6daa34ff5ee65e6596c49ded4da552270e350af94c73826e2d370ba77b",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "9kKQXwtv8daWhK06",
+    "tag_b64": "50ce43GpWkbeeujHWHycig==",
+    "aad": "android:2.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCID9NsOtmzh3euT5TXNbZhZ1DengBwK0hrrQl3uKqrUpAAiEApepDz9k0/xuek9srSnLxDxdr+oLocjANHKyQBuN/KnE="
+}

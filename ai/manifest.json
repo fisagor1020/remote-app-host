@@ -1,0 +1,19 @@
+{
+  "id": "ai",
+  "title": "OpenRouter AI",
+  "version": "1.0.0",
+  "entry": "ai.js",
+  "bundle_file": "ai.bundle.zip.enc",
+  "sha256": "85816bc738dbcd6abb6ceb44cd8f2e5019aa5041d1bc61e88d8619cdcb35e5f8",
+  "size_bytes": 12368,
+  "file_count": 1,
+  "plaintext_sha256": "2b8bcb14cf78405dba1533e02926c2b345e0397b8d17d661005bb5846c57e519",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "okzcozGxaBOZNyDK",
+    "tag_b64": "K87eze3BMTINl0iGiQ6qeQ==",
+    "aad": "ai:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEQCIC+ohxPhwPBRcDakZOC1CLdHhxPcPqKSP4iox2b7aJblAiBdxg9sTFRSQnvFw/9wBSEtt0EruVhPlZSWICKkk2AwRg=="
+}
