@@ -1,0 +1,19 @@
+{
+  "id": "python",
+  "title": "Python Package",
+  "version": "6.1.0",
+  "entry": "python.js",
+  "bundle_file": "python.bundle.zip.enc",
+  "sha256": "3bd7a130d1ea1d57c7eae964cf72378872801c828dac1adcb133cbb3abe28bc5",
+  "size_bytes": 5796,
+  "file_count": 1,
+  "plaintext_sha256": "7530578401dd01359abe257b9d01633ab508405627de89a32611bd65a83b69df",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "b0BHQqbs64ddtGjj",
+    "tag_b64": "sieoo3xFUD13CNpRrIzxwA==",
+    "aad": "python:6.1.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIQCgL3LJ6kCiXMBiLi3ji+KCf7DoXuqJZh5jC8e8QnPpywIgBY8V6j2XJSrKOK06IHS/cpPmvTWE0OCkTsMvjSqbVs0="
+}
