@@ -1,0 +1,19 @@
+{
+  "id": "prayertimes",
+  "title": "Islamic Prayer Times",
+  "version": "1.0.0",
+  "entry": "prayertimes.js",
+  "bundle_file": "prayertimes.bundle.zip.enc",
+  "sha256": "768a0ee44f4e4daf5b30b9906996b68cc5e964090d9b99fc7e0b05600a55127f",
+  "size_bytes": 3832,
+  "file_count": 1,
+  "plaintext_sha256": "49c06e43fbe2aa57aa8201aeb6998717587f4562676ee5a969312eaa8fc67621",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "MVTAZbULUg/Ehrxs",
+    "tag_b64": "NhxXRPcQHurii02iuu2J6g==",
+    "aad": "prayertimes:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEQCIC2F6w3FijN+yIERCWzVToF1h7ZWQUrvMWg9DYj9FfWxAiBb1vjNy20i7WaureLvhdNm8o4J1hGP1jO52ih/iLJxFw=="
+}
