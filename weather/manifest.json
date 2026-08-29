@@ -1,0 +1,19 @@
+{
+  "id": "weather",
+  "title": "Weather Package",
+  "version": "1.0.0",
+  "entry": "weather.js",
+  "bundle_file": "weather.bundle.zip.enc",
+  "sha256": "7173ee02da90818c2fdabbb77f24ccdacdc518e02df656e67a4910360581660d",
+  "size_bytes": 4273,
+  "file_count": 1,
+  "plaintext_sha256": "71f01935803160f69a7d60c81311365a48ba6b10ba662492dd8e6fd33732de64",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "ByDO0E9vala2uezx",
+    "tag_b64": "gki/c3IdGf7Qy89DEMIYqw==",
+    "aad": "weather:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIQD21ZTG0m3l3JXNeP3uAEXNGS0zEtd1vp3OKbVNodEUhwIgK2mkoDPdH9S0CYB3FXba2ImQq1B1sMHWFI3foAfTyMw="
+}
