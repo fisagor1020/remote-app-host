@@ -4,16 +4,16 @@
   "version": "1.0.0",
   "entry": "filesystem.js",
   "bundle_file": "filesystem.bundle.zip.enc",
-  "sha256": "6dad22637a4a47c13aef6a9d9cb7ae788b8ca854831160315634ed5a179535e6",
+  "sha256": "34d53c590075b2fed6b49bbffeeca1c2e89dfd637b1546f0f4eec9d27d52b426",
   "size_bytes": 15016,
   "file_count": 1,
   "plaintext_sha256": "bb8f205b72831ab929a65871019ff3be9ce43fa2586a672a9537e0e651790a34",
   "encryption": {
     "algorithm": "AES-256-GCM",
-    "nonce_b64": "p4vKRkSq9ZG6YGRm",
-    "tag_b64": "FbLAwwLEw4U8vbindWWIWw==",
+    "nonce_b64": "iGuDtT34DQk+Ea2O",
+    "tag_b64": "xPkUNfUEVEe/VeT1+uc5Jg==",
     "aad": "filesystem:1.0.0"
   },
   "signature_algorithm": "SHA256withECDSA",
-  "signature": "MEUCIHsqMPFHWIXXsu8LCVFBJ0RG4y83kHdHRYST232ahNdHAiEAlvSyffFq4WPQc0wAKFULLP5B3/w8OkWeeVQfbsEHF84="
+  "signature": "MEYCIQC04zcd3ZEE2DC/j4D5N1xlVSX0YcPhMmiF6pOSFiUV8QIhAMdkpFfpM5Isee92kZylTm/L0oMQ+zX7/OSI7SB+6spt"
 }
