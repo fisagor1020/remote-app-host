@@ -1,19 +1,19 @@
 {
   "id": "demo",
-  "title": "Demo",
+  "title": "Demo Test Package",
   "version": "1.0.0",
   "entry": "demo.js",
   "bundle_file": "demo.bundle.zip.enc",
-  "sha256": "7a5eb4ebf1be3685f7f2a306d87b56994859811b981faad0afd3cd6c40fdd882",
+  "sha256": "54b497438e3263bbd47e5cc005447874620572840dc20372f920c3f7dd2aabd1",
   "size_bytes": 846,
   "file_count": 1,
   "plaintext_sha256": "d1729a60da2bc7b08e2dcc0da1226c014c3f1a5b1cbeac53975100a017066dc3",
   "encryption": {
     "algorithm": "AES-256-GCM",
-    "nonce_b64": "8UvzByfYUAWjdORj",
-    "tag_b64": "kF/dvEYZ9hGp/Hw3Oie6jA==",
+    "nonce_b64": "fZnJ7pKFfz3xovmu",
+    "tag_b64": "Y+GVVNYwYnwxjM3YDGKqaA==",
     "aad": "demo:1.0.0"
   },
   "signature_algorithm": "SHA256withECDSA",
-  "signature": "MEUCIQCwKtbzZqJIF6gUZ6i/rwnlz6nFDMcpH7AnUyQrgvAnwwIgYnI+4fEFu0Oze5+OSzGV5eG6PaK+n6JDdKv6jmlo5Xk="
+  "signature": "MEQCIGPVCYpVzJ4W97cukm59IfIi1QyYNwBg+eGx8vZyJwYuAiACJRa7qT046u10Fc6UkQANNmt70ldZhm7hw2w1C5Zb0Q=="
 }
