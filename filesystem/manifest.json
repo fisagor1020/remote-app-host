@@ -1,0 +1,19 @@
+{
+  "id": "filesystem",
+  "title": "File system",
+  "version": "1.0.0",
+  "entry": "filesystem.js",
+  "bundle_file": "filesystem.bundle.zip.enc",
+  "sha256": "6dad22637a4a47c13aef6a9d9cb7ae788b8ca854831160315634ed5a179535e6",
+  "size_bytes": 15016,
+  "file_count": 1,
+  "plaintext_sha256": "bb8f205b72831ab929a65871019ff3be9ce43fa2586a672a9537e0e651790a34",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "nonce_b64": "p4vKRkSq9ZG6YGRm",
+    "tag_b64": "FbLAwwLEw4U8vbindWWIWw==",
+    "aad": "filesystem:1.0.0"
+  },
+  "signature_algorithm": "SHA256withECDSA",
+  "signature": "MEUCIHsqMPFHWIXXsu8LCVFBJ0RG4y83kHdHRYST232ahNdHAiEAlvSyffFq4WPQc0wAKFULLP5B3/w8OkWeeVQfbsEHF84="
+}
